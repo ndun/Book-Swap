@@ -1,5 +1,5 @@
 BookSwap::Application.routes.draw do
-  resources :people
+  
 
   resources :books
 
